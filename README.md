@@ -1,4 +1,9 @@
-### Hi there 👋
+[My LinkedIn](www.linkedin.com/in/edy-reynolds)           [My Resume](cp_resume.pdf)
+
+## About Me:
+
+
+##
 
 <!--
 **edyrey/edyrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
