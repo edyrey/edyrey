@@ -1,7 +1,7 @@
 ### Hi! My name is Edy Reynolds.
 
 [My LinkedIn](www.linkedin.com/in/edy-reynolds)          
-[My Resume](cp_resume.pdf)
+[My Resume](file:///C:/Users/test/Downloads/cp_resume.pdf)
 
 ## About Me:
 I currently attend California Polytechnic State University. I am a second year undergraduate Statistics major, pursuing a minor in Economics, on track to graduate June 2025. I am very passionate about data visualizations and cleaning and creating a data workflow to obtain those visualizations. I have experience in R, JMP, SAS, and Python, and I am hoping to start exploring Tableau and other power BI platforms. 
