@@ -4,7 +4,7 @@
 [My Resume](Reynolds_Edy_Resume.pdf)
 
 ## About Me:
-I currently attend California Polytechnic State University. I am a second year undergraduate Statistics major, pursuing a minor in Economics, on track to graduate June 2025. I am very passionate about data visualizations and cleaning and creating a data workflow to obtain those visualizations. I have experience in R, JMP, SAS, and Python, and I am hoping to start exploring Tableau and other Power BI platforms. 
+I currently attend California Polytechnic State University. I am a third year undergraduate Statistics major, pursuing a minor in Economics, on track to graduate June 2025. I am very passionate about data visualizations and cleaning and creating a data workflow to obtain those visualizations. I have experience in R, JMP, SAS, and Python, and I am hoping to start exploring Tableau and other Power BI platforms. 
 
 ## Current Projects
 I am wokring alongside Cal Poly Assistant Professor Dr. Emily Robinson to do data management work for The People's Kitchen in San Luis Obispo, CA. We hava worked to digitize the preexisting data, create a data workflow and digital data collection process in Google Sheets, and create meaningful dashboards to display the data in Looker Studio.
